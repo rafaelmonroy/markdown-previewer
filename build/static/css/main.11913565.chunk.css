@@ -1,0 +1,2 @@
+body{background-color:#c9ff00}.App{font-family:sans-serif;display:flex;flex-direction:column;justify-content:center;align-items:center}#top{margin:30px 0}#bottom,#top{display:flex;flex-direction:column;box-shadow:10px 10px 5px 0 rgba(0,0,0,.75)}#editor{background-color:#000;color:#fff}#editor,#preview{width:800px;padding:10px}#preview{height:1200px;background-color:#fff}.top-bar{color:#000;background-color:#fdff00;display:flex}.bottom-bar{color:#fff;background-color:#43ea00;display:flex}.bottom-title,.top-title{margin:4px}
+/*# sourceMappingURL=main.11913565.chunk.css.map */
