@@ -1,5 +1,4 @@
 import React from "react";
-import ReactFCCtest from "react-fcctest";
 import marked from "marked";
 
 marked.setOptions({
@@ -69,7 +68,6 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <ReactFCCtest />
         <div id="top">
           <div className="top-bar">
             <p className="top-title">Editor</p>
